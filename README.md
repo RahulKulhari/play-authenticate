@@ -24,7 +24,7 @@ You can find a live demo on [heroku](https://play-authenticate.herokuapp.com/ "P
 * Linking of accounts (e.g. one local user with multiple authentication providers)
 	* Linking can be done automatically or after asking the user (default)
 * Merge detection (e.g. a user created two unconnected local accounts)
-	* Account merge can be done automatically or after asking the user (default)
+	* Account merge can be done automatically or after asking the User (default)
 * Tight [deadbolt2][] authorization integration (Sample included).
 * HTTPS support (for OAuth2 redirect links and email verification).
 * Verification email used by Email/Password provider is fully customizable and localizable and can be sent in either text or HTML or both.
