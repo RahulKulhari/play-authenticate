@@ -29,7 +29,7 @@ You can find a live demo on [heroku](https://play-authenticate.herokuapp.com/ "P
 * HTTPS support (for OAuth2 redirect links and email verification).
 * Verification email used by Email/Password provider is fully customizable and localizable and can be sent in either text or HTML or both.
 
-## Issue
+### Issue
 * Session and Flash are not properly applied
 
 ### Providers
